@@ -8,4 +8,4 @@ def soma(a, b):
             >>> soma(3, 4)= 7
     """
 
-    return d + c
+    return a + b
